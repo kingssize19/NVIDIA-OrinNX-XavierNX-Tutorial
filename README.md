@@ -1,1 +1,1 @@
-# NVIDIA-OrinNX-XavierNX_Tutorial
+# NVIDIA-OrinNX-XavierNX Tutorial
